@@ -1,0 +1,5 @@
+# Notebook dependencies (installed in Colab):
+transformers==4.57.6
+accelerate>=1.0,<2
+torch
+# Local runner and analysis use the Python standard library only.
